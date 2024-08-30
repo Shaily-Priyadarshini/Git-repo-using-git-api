@@ -93,7 +93,7 @@ button:active {
   margin: 10px;
   box-shadow: 0 1px #d6cfcf ;
   display: flex;
-  /* overflow: hidden; */
+  overflow: hidden;
 
 }
 
